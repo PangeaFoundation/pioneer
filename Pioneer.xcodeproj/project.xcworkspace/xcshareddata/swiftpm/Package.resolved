@@ -1,0 +1,15 @@
+{
+  "originHash" : "63007e31a64711b84f251cc98f27ad7b352421dbbe4292732b44c02ecf7e675f",
+  "pins" : [
+    {
+      "identity" : "pioneer-client",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:PangeaFoundation/pioneer-client.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "aaa8dad101daafdd7c15c5bf22f8253bd3ce4a63"
+      }
+    }
+  ],
+  "version" : 3
+}
